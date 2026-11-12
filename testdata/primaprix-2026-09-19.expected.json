@@ -1,0 +1,10 @@
+{
+  "store": "Primaprix",
+  "date": "2026-09-19",
+  "time": "13:34",
+  "items": [
+    {"name": "KAIKU LECHE ENTERA", "qty": 6, "unit_price": 1.80, "line_total": 10.80}
+  ],
+  "total": 10.80,
+  "payment_total": 10.80
+}

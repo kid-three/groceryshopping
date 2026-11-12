@@ -1,0 +1,19 @@
+{
+  "store": "Primaprix",
+  "date": "2026-05-23",
+  "time": "21:02",
+  "items": [
+    {"name": "RENOVA PAPEL HIGIEN", "qty": 1, "unit_price": 2.95, "line_total": 2.95},
+    {"name": "DREFT MAQ AIO PLAT", "qty": 1, "unit_price": 6.75, "line_total": 6.75},
+    {"name": "KAIKU KEFIR LIQUIDO", "qty": 1, "unit_price": 3.50, "line_total": 3.50},
+    {"name": "KAIKU LECHE ENTERA", "qty": 6, "unit_price": 1.80, "line_total": 10.80},
+    {"name": "CANTU ACOND SHEA BU", "qty": 1, "unit_price": 5.95, "line_total": 5.95},
+    {"name": "NEUTROGENA CREMA MA", "qty": 1, "unit_price": 3.95, "line_total": 3.95},
+    {"name": "CANTU CHAMPU SHEA B", "qty": 1, "unit_price": 5.95, "line_total": 5.95},
+    {"name": "ELVIVE MASCARILLA P", "qty": 1, "unit_price": 7.50, "line_total": 7.50},
+    {"name": "NUTELLA CREMA CACAO", "qty": 1, "unit_price": 3.75, "line_total": 3.75},
+    {"name": "BERGEN GALLETA CARA", "qty": 1, "unit_price": 1.35, "line_total": 1.35}
+  ],
+  "total": 52.45,
+  "payment_total": 52.45
+}

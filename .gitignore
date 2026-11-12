@@ -1,0 +1,27 @@
+# Secrets — never commit
+local.properties
+*.keystore
+*.jks
+secrets.*
+
+# Raw receipt photos (contain partial card numbers etc.)
+TicketSamples/
+testdata/**/*.jpg
+testdata/**/*.jpeg
+testdata/**/*.png
+
+# Android / Gradle
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store

@@ -1,0 +1,26 @@
+{
+  "store": "Mercadona",
+  "date": "2026-10-03",
+  "time": "18:29",
+  "items": [
+    {"name": "AGUADOY GAS P-6X500M", "qty": 1, "unit_price": 1.56, "line_total": 1.56},
+    {"name": "LECHE ENTERA", "qty": 3, "unit_price": 1.29, "line_total": 3.87},
+    {"name": "ROLLO COCINA GIGANTE", "qty": 1, "unit_price": 2.95, "line_total": 2.95},
+    {"name": "ZUMO NARANJA C/PULPA", "qty": 1, "unit_price": 1.85, "line_total": 1.85},
+    {"name": "40 B.CIERRA FÁCIL", "qty": 2, "unit_price": 1.80, "line_total": 3.60},
+    {"name": "PAÑAL BRAGUITA L", "qty": 1, "unit_price": 6.90, "line_total": 6.90},
+    {"name": "PAPEL HIGIÉNICO 4 CA", "qty": 1, "unit_price": 3.70, "line_total": 3.70},
+    {"name": "GRIEGO NATURAL P-6", "qty": 1, "unit_price": 1.45, "line_total": 1.45},
+    {"name": "GRIEGO FRESA X6", "qty": 1, "unit_price": 1.55, "line_total": 1.55},
+    {"name": "PATATAS GAJO", "qty": 1, "unit_price": 1.65, "line_total": 1.65},
+    {"name": "BATIDO CACAO PACK 6", "qty": 1, "unit_price": 2.75, "line_total": 2.75},
+    {"name": "BALLS", "qty": 2, "unit_price": 1.00, "line_total": 2.00},
+    {"name": "LAVAVAJILLAS FRESH", "qty": 1, "unit_price": 5.85, "line_total": 5.85},
+    {"name": "BOCA FRUIT 200 G", "qty": 2, "unit_price": 1.20, "line_total": 2.40},
+    {"name": "T. CARA Y MANOS", "qty": 2, "unit_price": 0.55, "line_total": 1.10},
+    {"name": "PAN TOST CEREAL/SEMI", "qty": 1, "unit_price": 2.20, "line_total": 2.20},
+    {"name": "GALLETA MINI COOKIES", "qty": 1, "unit_price": 1.40, "line_total": 1.40}
+  ],
+  "total": 46.78,
+  "payment_total": 46.78
+}
